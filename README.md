@@ -1,1 +1,2 @@
-Website live: https://isabellewaltrick.github.io/chatapp-responsive-website-/
+# Chatapp
+https://isabellewaltrick.github.io/chatapp-responsive-website-/
